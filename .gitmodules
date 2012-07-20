@@ -1,0 +1,6 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/Feowl/API.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Feowl/Frontend.git
